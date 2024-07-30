@@ -4,7 +4,7 @@ Meu nome é Liane Nunes.
 
 ˗ˏˋ ★ ˎˊ˗
 
--Estou estudando na *Alura*.
+-Estou estudando na ![](https://www.alura.com.br/)
 
 -Estou me desenvolvendo na linguagem *JavaScript*.
 
